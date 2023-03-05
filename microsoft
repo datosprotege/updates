@@ -1,1 +1,1 @@
-ping www.google.com -n 2 >> file.log
+echo 7 >> file.log
